@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "name": "hat",
+      "price": "5",
+      "quantity": "76",
+      "description": "colored",
+      "color": "black",
+      "id": "eaedeb66-eda4-42f5-8c57-06914cc711f9"
+    }
+  ]
+}
